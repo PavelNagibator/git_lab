@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Исходная версия");
+            Console.WriteLine("Исходная версия/// а теперь я его поменял");
             Console.ReadKey();
         }
     }
